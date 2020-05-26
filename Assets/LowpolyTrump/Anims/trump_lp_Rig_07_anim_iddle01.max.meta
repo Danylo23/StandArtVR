@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: 7ede70c54744cc046a7f23f7fa1eae79
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BipTrump
+    100002: BipTrump Footsteps
+    100004: BipTrump Head
+    100006: BipTrump HeadNub
+    100008: BipTrump L Calf
+    100010: BipTrump L Clavicle
+    100012: BipTrump L Finger0
+    100014: BipTrump L Finger0Nub
+    100016: BipTrump L Finger1
+    100018: BipTrump L Finger1Nub
+    100020: BipTrump L Foot
+    100022: BipTrump L Forearm
+    100024: BipTrump L Hand
+    100026: BipTrump L Thigh
+    100028: BipTrump L Toe0
+    100030: BipTrump L Toe0Nub
+    100032: BipTrump L UpperArm
+    100034: BipTrump Neck
+    100036: BipTrump Pelvis
+    100038: BipTrump R Calf
+    100040: BipTrump R Clavicle
+    100042: BipTrump R Finger0
+    100044: BipTrump R Finger0Nub
+    100046: BipTrump R Finger1
+    100048: BipTrump R Finger1Nub
+    100050: BipTrump R Foot
+    100052: BipTrump R Forearm
+    100054: BipTrump R Hand
+    100056: BipTrump R Thigh
+    100058: BipTrump R Toe0
+    100060: BipTrump R Toe0Nub
+    100062: BipTrump R UpperArm
+    100064: BipTrump Spine
+    100066: BipTrump Spine1
+    100068: render_miAreaLightomni001
+    100070: render_Sky001
+    100072: trump_lp_model
+    100074: //RootNode
+    100076: trump_rigCharRoot
+    400000: BipTrump
+    400002: BipTrump Footsteps
+    400004: BipTrump Head
+    400006: BipTrump HeadNub
+    400008: BipTrump L Calf
+    400010: BipTrump L Clavicle
+    400012: BipTrump L Finger0
+    400014: BipTrump L Finger0Nub
+    400016: BipTrump L Finger1
+    400018: BipTrump L Finger1Nub
+    400020: BipTrump L Foot
+    400022: BipTrump L Forearm
+    400024: BipTrump L Hand
+    400026: BipTrump L Thigh
+    400028: BipTrump L Toe0
+    400030: BipTrump L Toe0Nub
+    400032: BipTrump L UpperArm
+    400034: BipTrump Neck
+    400036: BipTrump Pelvis
+    400038: BipTrump R Calf
+    400040: BipTrump R Clavicle
+    400042: BipTrump R Finger0
+    400044: BipTrump R Finger0Nub
+    400046: BipTrump R Finger1
+    400048: BipTrump R Finger1Nub
+    400050: BipTrump R Foot
+    400052: BipTrump R Forearm
+    400054: BipTrump R Hand
+    400056: BipTrump R Thigh
+    400058: BipTrump R Toe0
+    400060: BipTrump R Toe0Nub
+    400062: BipTrump R UpperArm
+    400064: BipTrump Spine
+    400066: BipTrump Spine1
+    400068: render_miAreaLightomni001
+    400070: render_Sky001
+    400072: trump_lp_model
+    400074: //RootNode
+    400076: trump_rigCharRoot
+    2100000: TrumpLPmat
+    4300000: trump_lp_model
+    7400000: Take 001
+    9500000: //RootNode
+    10800000: render_miAreaLightomni001
+    10800002: render_Sky001
+    13700000: trump_lp_model
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
